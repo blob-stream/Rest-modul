@@ -1,0 +1,23 @@
+{
+  "name": "Rest-modul",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blob-stream/Rest-modul.git"
+  },
+  "author": "Eugen Schaffner",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/blob-stream/Rest-modul/issues"
+  },
+  "dependencies": {
+    "node-base64-image": "~1.0.1",
+    "base64-img": "~1.0.3",
+    "curl": "~0.1.4"
+  }
+}

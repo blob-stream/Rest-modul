@@ -18,6 +18,9 @@
   "dependencies": {
     "node-base64-image": "~1.0.1",
     "base64-img": "~1.0.3",
-    "curl": "~0.1.4"
+    "curl": "~0.1.4",
+    "unirest": "~0.5.0",
+    "clarifai": "~1.2.1",
+    "shutterstock": "~0.12.0"
   }
 }
